@@ -1,0 +1,14 @@
+{
+  "name": "jake-project",
+  "version": "1.0.0",
+  "author": "Oscar Godson <oscargodson@gmail.com>",
+  "description": "The Simple.com front-end app",
+  "devDependencies": {
+    "uglify-js": "*",
+    "jshint": "1.1.x",
+    "jake": "*",
+    "watch": "*"
+  },
+  "repository": ""
+}
+
